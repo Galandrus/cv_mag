@@ -1,2 +1,1 @@
-# cv_mag
-Es una pagina con mi curriculum
+# Curriculum Martin Andres Galan
